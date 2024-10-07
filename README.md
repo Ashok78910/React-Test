@@ -6,7 +6,9 @@
 
 # issue in get api
 +s :- https://apis-technical-test.conqt.com/Api/Item-Supplier/+s :- 404 not dound
-aslo tried with remove + and s but same issue
+also tried with removing + and s but same issue
+attached screen shot in public/images folder for refrence
+
 
 try to access this but facing error 
 
