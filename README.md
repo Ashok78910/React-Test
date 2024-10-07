@@ -4,6 +4,14 @@
  React : 18.3.1
  node : 20.3.1
 
+# issue in get api
++s :- https://apis-technical-test.conqt.com/Api/Item-Supplier/+s :- 404 not dound
+also tried with removing + and s but same issue
+attached screen shot in public/images folder for refrence
+
+
+try to access this but facing error 
+
 ## Available Scripts
 
 In the project directory, you can run:
@@ -30,3 +38,5 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+
